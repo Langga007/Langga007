@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ken Jun
-- 👀 I’m love Video Games, took an interest in coding and am loving it
+- 👀 I love Video Games, took an interest in coding and am loving it
 - 🌱 I’m currently learning to code, specifically React.js with Redux and Java Springboot 
 - 📫 How to reach me reach me via email; kensanvictores07@gmail.com
 
